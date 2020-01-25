@@ -1,2 +1,2 @@
-# String
-Basic String operation
+# MallProject
+Basic Mall Project
